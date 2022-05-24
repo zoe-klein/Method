@@ -1,0 +1,20 @@
+.flex-box-centered-content-create-note{
+    /* Flexbox!! https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+    display: flex;
+    justify-content: space-around;
+}
+
+.create-note-form {
+    margin-top: 20px;
+}
+
+.create-note-textBox {
+    margin-top: 30px;
+    width: 1265px;
+}
+
+.button-container-create-note {
+    margin-top: 5px;
+    display: flex;
+    justify-content: flex-end;
+}

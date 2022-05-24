@@ -1,0 +1,35 @@
+.flex-box-centered-content-listById-class {
+    /* Flexbox!! https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+    display: flex;
+    flex: auto;
+    justify-content: center;
+  }
+  
+  .header-assignment {
+    display: flex;
+    background-color: lightgrey;
+    padding-top: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 20px;
+  }
+
+.assignment-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.date-score {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 8px;
+}
+
+.button-spacing {
+  display: flex;
+  justify-content: center;
+  padding: 8px;
+}

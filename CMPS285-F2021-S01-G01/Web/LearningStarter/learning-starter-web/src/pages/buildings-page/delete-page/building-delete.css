@@ -1,0 +1,31 @@
+.field-delete-building-data {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.label {
+    margin-bottom: 1px !important;
+}
+
+.old-building-data {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.button-container-building {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 2px !important;
+    margin-right: 2px !important;
+    margin-top: 5px !important;
+}
+
+.confirm {
+    margin: 0px;
+}
+
+.padding-building {
+    padding: 8px;
+}

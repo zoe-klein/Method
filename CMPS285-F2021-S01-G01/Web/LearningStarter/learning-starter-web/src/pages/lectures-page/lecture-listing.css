@@ -1,0 +1,29 @@
+.page-container {
+  height: 100%;
+  width: 100%;
+}
+
+.header-format-lecture {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  background-color: lightgrey;
+  height: 8%;
+  padding-bottom: 0px;
+}
+
+.edit-button-helper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.lecture-info-segment {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+
+}

@@ -1,0 +1,28 @@
+.view-note-title {
+    text-align: justify;
+    margin-left: 15px;
+    margin-top: -35px;
+    size: large;
+}
+
+.view-note-dateCreated {
+    text-align: justify;
+    margin-left: 15px;
+    size: medium;
+}
+
+.view-note-content {
+    text-align: start;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+.note-view-button {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+
+

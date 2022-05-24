@@ -1,0 +1,45 @@
+.note-DateCreated {
+    text-align: right;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.note-newNote {
+    margin-top: 15px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.note-flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 8px;
+}
+
+.button-container-view-note {
+    margin-top: 25px;
+    margin-bottom: 10px ;
+    display: flex;
+    justify-content: center;
+    color:lightsteelblue;
+}
+
+.notes-view-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: lightgrey;
+    height: 8%;
+    margin-top: 20px;
+}
+
+.page-container {
+    height: 100%;
+    width: 100%;
+}

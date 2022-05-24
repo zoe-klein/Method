@@ -1,0 +1,14 @@
+.button-container-create-lecture {
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .flex-box-center-aligned-content-lecture-listing {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+  }

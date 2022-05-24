@@ -1,0 +1,37 @@
+.flex-box-centered-content-listById-class {
+    /* Flexbox!! https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+    display: flex;
+    flex: auto;
+    justify-content: center;
+  }
+  
+.edit-page-title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 8%;
+  background-color: lightgrey;
+  padding-top: 20px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-bottom: 20px;
+}
+
+.display-edit-info {
+  display: flex;
+  padding-top: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-for-edit {
+  display: flex;
+  justify-content: center;
+  padding: 8px;
+}
+
+.field-boxes-assignments {
+  display: flex;
+  justify-content: center;
+}
